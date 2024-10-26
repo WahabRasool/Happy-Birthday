@@ -1,0 +1,11 @@
+html {
+    background: #252830;
+    height: 100%;
+    display: grid;
+    place-content: center;
+  }
+  
+  svg {
+    display: block;
+    width: 80vmin;
+  }
